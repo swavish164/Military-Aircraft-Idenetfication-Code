@@ -1,0 +1,12 @@
+names:
+- Aircraft
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: plane-aycuf
+  url: https://universe.roboflow.com/aircraft-4uwg3/plane-aycuf/dataset/2
+  version: 2
+  workspace: aircraft-4uwg3
+test: ../test/images
+train: Plane-2/train/images
+val: Plane-2/valid/images
